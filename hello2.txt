@@ -1,0 +1,1 @@
+This is hello2.txt updated file for depicting usage of merging.
