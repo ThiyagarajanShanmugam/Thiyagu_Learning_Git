@@ -1,2 +1,2 @@
-Hello this is Thiyagu!
-Welcome all
+
+This is hello2.txt updated file for depicting usage of merge conflicts
